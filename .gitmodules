@@ -1,0 +1,7 @@
+[submodule "themes/bootstrap4"]
+	path = themes/bootstrap4
+	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog
+[submodule "public"]
+	path = public
+	url = https://github.com/rnoronha/rnoronha.github.io.git
+	branch = master

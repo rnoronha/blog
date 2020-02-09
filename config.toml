@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rodrigo's Blog"
+theme = "bootstrap4"
+summaryLength = 50
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+  page = "/:slug/"
+  
+[params]
+  author = "Rodrigo Noronha"
+  date_format = "Mon Jan 02, 2006"
